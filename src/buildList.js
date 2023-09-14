@@ -13,6 +13,8 @@ const bnb = require("./tokens/bnb.json");
 const sepolia = require("./tokens/sepolia.json");
 const avalanche = require("./tokens/avalanche.json");
 const base = require("./tokens/base.json");
+const canxium = require("./tokens/canxium.json");
+const cerium = require("./tokens/cerium.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
@@ -43,7 +45,9 @@ module.exports = function buildList() {
       ...bnb,
       ...sepolia,
       ...avalanche,
-      ...base
+      ...base,
+      ...canxium,
+      ...cerium
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
