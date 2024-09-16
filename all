@@ -1,0 +1,23 @@
+{
+  "name": "CoinGecko",
+  "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2024-09-10T10:00:14.710+00:00",
+  "tokens": [
+    {
+      "chainId": 3003,
+      "address": "0x036C35465E63f02C7da5dE146d6d15A9Dae7a783",
+      "name": "CAUDOGE",
+      "symbol": "CAUDOGE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29720/thumb/zkpad.jpeg?1696528650"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
