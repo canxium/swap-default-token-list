@@ -1,23 +1,32 @@
 {
-  "name": "Canxium",
-  "logoURI": "https://canxium.org/images/icon.png",
-  "keywords": [
-    "defi"
-  ],
-  "timestamp": "2024-09-16T10:00:14.710+00:00",
-  "tokens": [
-    {
-      "chainId": 3003,
-      "address": "0x036C35465E63f02C7da5dE146d6d15A9Dae7a783",
-      "name": "CAUDOGE",
-      "symbol": "CAUDOGE",
-      "decimals": 18,
-      "logoURI": "https://caudoge.xyz/assets/images/caudoge_pic-modified.png"
+    "name": "Canxium",
+    "logoURI": "https://canxium.org/images/icon.png",
+    "keywords": [
+      "defi"
+    ],
+    "timestamp": "2024-09-16T10:00:14.710+00:00",
+    "tokens": [
+      {
+        "chainId": 3003,
+        "address": "0x036C35465E63f02C7da5dE146d6d15A9Dae7a783",
+        "name": "CAUDOGE",
+        "symbol": "CAUDOGE",
+        "decimals": 18,
+        "logoURI": "https://caudoge.xyz/assets/images/caudoge_pic-modified.png"
+      }, 
+      {
+        "chainId": 3003,
+        "address": "0x5Bed0D5fd4c2B37d0Dd2F9Ff5e7Cb62E25ad6205",
+        "name": "TESTERC ",
+        "symbol": "TST",
+        "decimals": 18,
+        "logoURI": "https://caudoge.xyz/assets/images/bone.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "patch": 0
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 1,
-    "patch": 0
   }
-}
+  
