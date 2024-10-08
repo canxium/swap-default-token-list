@@ -1,32 +1,40 @@
 {
-    "name": "Canxium",
-    "logoURI": "https://canxium.org/images/icon.png",
-    "keywords": [
-      "defi"
-    ],
-    "timestamp": "2024-09-16T10:00:14.710+00:00",
-    "tokens": [
-      {
-        "chainId": 3003,
-        "address": "0xE815D6b6e430F2a58F7D3ECb2Edaa438803983E2",
-        "name": "CAUDOGE",
-        "symbol": "CAUDOGE",
-        "decimals": 18,
-        "logoURI": "https://caudoge.xyz/assets/images/caudoge_pic-modified.png"
-      }, 
-      {
-        "chainId": 3003,
-        "address": "0x5Bed0D5fd4c2B37d0Dd2F9Ff5e7Cb62E25ad6205",
-        "name": "TESTERC ",
-        "symbol": "TST",
-        "decimals": 18,
-        "logoURI": "https://caudoge.xyz/assets/images/bone.png"
-      }
-    ],
-    "version": {
-      "major": 1,
-      "minor": 1,
-      "patch": 0
+  "name": "Canxium",
+  "logoURI": "https://canxium.org/images/icon.png",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2024-09-16T10:00:14.710+00:00",
+  "tokens": [
+    {
+      "chainId": 3003,
+      "address": "0x6c6331CA2BC039996E833479b7c13Cc62Ab5c6BA",
+      "name": "OFFLINE",
+      "symbol": "OFF",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/canxium/swap-default-token-list/refs/heads/main/logos/0x6c6331CA2BC039996E833479b7c13Cc62Ab5c6BA.png"
+    }, 
+    {
+      "chainId": 3003,
+      "address": "0xE815D6b6e430F2a58F7D3ECb2Edaa438803983E2",
+      "name": "CAUDOGE",
+      "symbol": "CAUDOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/canxium/swap-default-token-list/refs/heads/main/logos/0xE815D6b6e430F2a58F7D3ECb2Edaa438803983E2.png"
+    }, 
+    {
+      "chainId": 3003,
+      "address": "0x43E309117Aa5D4681d9788dBb359A802d52961dC",
+      "name": "Block AI ",
+      "symbol": "BAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/canxium/swap-default-token-list/refs/heads/main/logos/0x43E309117Aa5D4681d9788dBb359A802d52961dC.png"
     }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
   }
-  
+}
+
