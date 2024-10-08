@@ -29,12 +29,20 @@
       "symbol": "BAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/canxium/swap-default-token-list/refs/heads/main/logos/0x43E309117Aa5D4681d9788dBb359A802d52961dC.png"
+    },
+    {
+      "chainId": 3003,
+      "address": "0x5Bed0D5fd4c2B37d0Dd2F9Ff5e7Cb62E25ad6205",
+      "name": "TEST ERC",
+      "symbol": "TST",
+      "decimals": 18,
+      "logoURI": "https://canxium.org/images/icon.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
 
