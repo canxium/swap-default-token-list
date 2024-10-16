@@ -5,19 +5,10 @@
     "defi"
   ],
   "timestamp": "2024-09-16T10:00:14.710+00:00",
-  "tokens": [ 
-    {
-      "chainId": 3003,
-      "address": "0x43E309117Aa5D4681d9788dBb359A802d52961dC",
-      "name": "Block AI ",
-      "symbol": "BAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/canxium/swap-default-token-list/refs/heads/main/logos/0x43E309117Aa5D4681d9788dBb359A802d52961dC.png"
-    }
-  ],
+  "tokens": [],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
