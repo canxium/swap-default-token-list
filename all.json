@@ -5,10 +5,17 @@
     "defi"
   ],
   "timestamp": "2024-09-16T10:00:14.710+00:00",
-  "tokens": [],
+  "tokens": [{
+    "chainId": 3003,
+    "address": "0x6c6331CA2BC039996E833479b7c13Cc62Ab5c6BA",
+    "name": "OFFLINE",
+    "symbol": "OFF",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/canxium/swap-default-token-list/refs/heads/main/logos/0x6c6331CA2BC039996E833479b7c13Cc62Ab5c6BA.png"
+  }],
   "version": {
-    "major": 1,
-    "minor": 2,
+    "major": 2,
+    "minor": 1,
     "patch": 1
   }
 }
